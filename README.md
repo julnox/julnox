@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">As a dedicated student with a passion for backend development, I am seeking an opportunity to apply my theoretical knowledge and technical skills in a practical setting. I am proficient in various programming languages and have a strong understanding of data structures, algorithms, and software design principles. I am eager to contribute to a dynamic team where I can further develop my skills and make a meaningful impact.</p>
+<p align="left">As a dedicated student, I am seeking an opportunity to apply my theoretical knowledge and technical skills in a practical setting. I am proficient in various programming languages and have a strong understanding of data structures, algorithms, and software design principles. I am eager to contribute to a dynamic team where I can further develop my skills and make a meaningful impact.</p>
 
 ###
 
